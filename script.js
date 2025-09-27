@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { src: "assets/fondo.gif", duration: 3000 },
     { src: "assets/fondo1.gif", duration: 1500 },
     { src: "assets/fondo2.gif", duration: 1200 },
-    { src: "assets/fondo4.gif", duration: 1100 }
+    { src: "assets/fondo3.gif", duration: 1100 }
   ];
 
   let index = 0;
