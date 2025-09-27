@@ -37,4 +37,6 @@ document.addEventListener("DOMContentLoaded", () => {
   changeGif(); 
 });
 
-
+function PlayAudio(){
+  document.getElementById("musica").play();
+}
