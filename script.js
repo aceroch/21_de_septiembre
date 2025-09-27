@@ -19,9 +19,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const gifs = [
     { src: "assets/fondo.gif", duration: 3000 },
-    { src: "assets/fondo1.gif", duration: 1500 },
-    { src: "assets/fondo2.gif", duration: 1200 },
-    { src: "assets/fondo3.gif", duration: 1100 }
+    { src: "assets/fondo1.gif", duration: 2500 },
+    { src: "assets/fondo2.gif", duration: 1600 },
+    { src: "assets/fondo3.gif", duration: 1900 }
   ];
 
   let index = 0;
