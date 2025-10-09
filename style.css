@@ -184,7 +184,7 @@ html, body {
   width: 360px;
   position: absolute;
   top: -100px;
-  left: -10px;
+  left: 0;
   right: 0;
   bottom: auto;
   font-size: 35px;
