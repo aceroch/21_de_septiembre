@@ -182,12 +182,12 @@ html, body {
 }
 .wrapper .text {
   position: absolute;
-  top: -120px;
+  top: -100px;
   justify-content: center;
   align-items: center;
   right: 0;
   bottom: auto;
-  font-size: 30px;
+  font-size: 31px;
   text-align: center;
   font-family: "Indie Flower";
 }
